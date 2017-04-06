@@ -1,0 +1,27 @@
+body{
+	background-image:url("pic1.jpg");
+}
+marquee{
+	font-family:verdana;
+	font-size:50px;
+	background-color:#324851;
+	color:#ffffff;
+}
+table{
+	margin-top:200px;
+	background-color:#1e434c
+} 
+table tr:nth-child(1) {
+	font-family:verdana;
+	color:#ffffff;
+}
+#row{
+	color:#ffffff;
+	font-family:verdana;
+	font-size:12px;
+}
+a{
+	text-decoration:none;
+}
+
+
